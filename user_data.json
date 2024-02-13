@@ -1,0 +1,16 @@
+{
+current_level: 1
+max_level_achieved: 1
+current_colors_level: 1
+max_colors_level_achieved: 1
+hints_amount: 5
+volume: 0.5
+vibration_is_on: true
+button_hints_are_on: true
+locale: en
+launches: 4
+current_zen_level: 1
+when_to_skip_level: 1701332759503
+when_to_skip_zen_level: 1701332621058
+when_to_skip_colors_level: 1701332759532
+}

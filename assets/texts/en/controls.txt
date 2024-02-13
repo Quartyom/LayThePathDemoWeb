@@ -1,0 +1,1 @@
+By default you control the game with your finger directly, moving it through the field. But there is also an abstract way. You will move the cursor using gestures swipe and double tap.

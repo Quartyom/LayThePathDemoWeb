@@ -1,0 +1,3 @@
+launches: %d
+zen levels passed: %d
+stats views: %d

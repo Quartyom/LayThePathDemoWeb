@@ -1,0 +1,4 @@
+Lay the path to cover all the available cells of the field. Hold your finger on the board and move it.
+You may not cross yourself or obstacles. A path must start and end in an empty cell, but it can pass through diagonal walls, dots, and the path itself on turns.
+You can only move straight through crossroads.
+If the move is forbidden, you will notice it, otherwise do not limit yourself and have fun.
